@@ -1,0 +1,12 @@
+July-14 2024
+1.Intro to React 
+Explained difference between Libaray,framework
+Node js,NPM,NVM install of npm 
+npx install create-react-app "foldername"
+cd foldername
+npm start
+July-15 2024
+1.Virtual DOM,real DOM,in-memory,work flow of Virtual DOM.
+2.Fileand folder structure
+3.Modules (import,export,alias as) ,Named ,default,* 
+
